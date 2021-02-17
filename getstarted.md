@@ -240,13 +240,4 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <br>
 
-<style>
-
-.gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
-     font-size: 30px;
-}
-
-</style>
+<style> .gs-section-01 { color: #D6F49D; font-size: 30px; } .gs-section-02 { color: #EAD637; font-size: 07px; } .gs-section-03 { color: #CBA328; font-size: 60px; } .gs-section-04 { color: #A2D3C2; font-size: 25px; } </style> 
