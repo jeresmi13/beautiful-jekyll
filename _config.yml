@@ -22,6 +22,7 @@ navbar-links:
    - Beautiful Jekyll: "https://beautifuljekyll.com"
    - Learn markdown: "http://www.markdowntutorial.com/"
    - Getting Started: "getstarted"                         # ADD THIS LINK
+    Table Demo: "table-demo" 
   Author's home: "http://deanattali.com"
 
 # --- Logo --- #
